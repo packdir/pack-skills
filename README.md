@@ -9,6 +9,9 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ## Marketing
 
+[ibuildwith-ai/cody-article-writer](https://github.com/ibuildwith-ai/cody-article-writer)
+
+Cody Article Writer is an AI Agent Skill that helps you write research-backed articles through a structured, iterative workflow, with approved sources, optional citations, reusable style guides, metadata, and clean Markdown export.
 
 ## Finance
 
